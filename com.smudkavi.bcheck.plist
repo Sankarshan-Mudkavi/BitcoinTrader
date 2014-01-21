@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.smudkavi.bcheck</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/sankarshanmudkavi/bcheck/bcheck.py</string>
+    </array>
+    <key>StartInterval</key>
+    <integer>3600</integer>
+    <key>StandardErrorPath</key>
+    <string>/Users/sankarshanmudkavi/bcheck/error_log.log</string>
+</dict>
+</plist>
